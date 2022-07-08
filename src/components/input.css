@@ -1,0 +1,22 @@
+.input{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 3rem;
+    padding-left: 20px;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.295);
+    margin-top: 1rem;
+}
+
+.input_value{
+    outline: none;
+    border: none;
+    color: rgb(227, 216, 216);
+    background-color: transparent;
+    font-size: 1rem;
+    width: 28rem;
+    margin-right: 1rem;
+}
+
